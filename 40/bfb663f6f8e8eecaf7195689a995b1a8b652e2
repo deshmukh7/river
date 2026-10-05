@@ -1,0 +1,30 @@
+tests/metrics/test_pos_val.py
+  s_d9b384bc309944::t_cb4e3a893677ad 1-107,109-138,140-143,145-152
+  s_d9b384bc309944::t_3a2f4a8b21924a 108
+  s_d9b384bc309944::t_4b85cde6d27f69 139,144
+river/metrics/roc_auc.py
+  s_d9b384bc309944::t_b75149786da39f 109-112
+  s_d9b384bc309944::t_694cdcbc9da8ef 79-83,85,90
+river/metrics/base.py
+  s_d9b384bc309944::t_9e0af81a103a4b 149,159
+docs/releases/unreleased.md
+  s_d9b384bc309944::t_4d8e91a2931f4a 28-31
+river/metrics/mcc.py
+  s_d9b384bc309944::t_5d27e6c2158f9c 49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "40bfb663f6f8e8eecaf7195689a995b1a8b652e2",
+  "prompts": {},
+  "sessions": {
+    "s_d9b384bc309944": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "d19db676-9d7f-4b68-9528-3cc92d02ae58",
+        "model": "auto-smart"
+      },
+      "human_author": "Rohan Deshmukh <rohandeshmukh@Rohans-MacBook-Pro.local>"
+    }
+  }
+}
